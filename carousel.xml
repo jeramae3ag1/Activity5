@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<carousel>
+    <title>Activity-5 Carousel</title>
+    <images>
+        <image src="https://www.littledogsocialmedia.com/wp-content/uploads/2019/05/Team_Collage_Slider.jpg"/>
+        <image src="https://www.littledogsocialmedia.com/wp-content/uploads/2019/05/4-4.png"/>
+        <image src="https://www.littledogsocialmedia.com/wp-content/uploads/2019/05/3-4.png"/>
+        <image src="https://www.littledogsocialmedia.com/wp-content/uploads/2019/05/Winter_2024_Little_Dog_Website_Sliders-1.jpg"/>
+    </images>
+    <buttons>
+        <button direction="left">&#10094;</button>
+        <button direction="right">&#10095;</button>
+    </buttons>
+</carousel>
